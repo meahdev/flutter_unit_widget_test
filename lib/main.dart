@@ -8,7 +8,6 @@ import 'package:flutter_test_sample/screens/posts/posts_screen.dart';
 void main() async {
   ///ensures that the Flutter framework's bindings are properly initialized before proceeding with the rest of your application code.
   WidgetsFlutterBinding.ensureInitialized();
-
   runApp(const MyApp());
 }
 
